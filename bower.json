@@ -1,0 +1,21 @@
+{
+  "name": "emergingmidterm",
+  "version": "0.0.1",
+  "authors": [
+    "carlou5 <carlos52292@hotmail.com>"
+  ],
+  "description": "midterm",
+  "main": "index.html",
+  "license": "MIU",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
